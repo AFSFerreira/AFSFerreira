@@ -30,7 +30,7 @@ Nice to meet you!!!
 <a href="https://github.com/JamesStewart-314" title="Allber's profile">
   <img height="200em" width="1000" align="center" src="https://github-readme-stats.vercel.app/api?username=JamesStewart-314&theme=chartreuse-dark&show_icons=true" />
   <br></br>
-  <img height="225em" width="950m" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStewart-314&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="224em" width="950m" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStewart-314&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </a>
 <br></br>
 
