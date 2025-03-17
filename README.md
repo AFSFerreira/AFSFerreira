@@ -25,7 +25,6 @@ Nice to meet you!!!
 ![Visual Studio Code](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 <br/>
-[![JamesStewart-314's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JamesStewart-314&theme=chartreuse-dark)](https://github.com/JamesStewart-314/github-readme-activity-graph)
 
 <a href="https://github.com/JamesStewart-314" title="Allber's profile">
   <img height="200em" width="1000" align="center" src="https://github-readme-stats.vercel.app/api?username=JamesStewart-314&theme=chartreuse-dark&show_icons=true" />
