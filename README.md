@@ -38,7 +38,7 @@ Nice to meet you!!!
 
 <div style="display:flex; width:100%; justify-content:center;">
   <a href="https://github.com/JamesStewart-314/" title="Allber's profile">
-    <img height="300px" href="google.com" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStewart-314&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+    <img height="300px" width="100%" href="google.com" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesStewart-314&layout=compact&langs_count=7&theme=chartreuse-dark"/>
   </a>
 </div>
 <br></br>
