@@ -8,7 +8,7 @@ Nice to meet you!!!
 ## My Skills
 
 **Applications and Data** :
-<div style="display: flex; align-content: center; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFD700&color=A020F0"/>
   <img src="https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c&logoColor=00599C&color=4f42b5"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -26,13 +26,13 @@ Nice to meet you!!!
 </div>
 
 **DevOps** :
-<div style="display: flex; align-content: center; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
 **Development Tools** :
-<div style="display: flex; align-content: center; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
 </div>
