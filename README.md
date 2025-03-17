@@ -8,7 +8,7 @@ Nice to meet you!!!
 ## My Skills
 
 **Applications and Data** :
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; width: 100%; height: 300px; align-items: center;">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=FFD700&color=A020F0"/>
   <img src="https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c&logoColor=00599C&color=4f42b5"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
