@@ -24,17 +24,13 @@ Nice to meet you!!!
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
 </div>
-
 <br>
-
 ### **DevOps** :
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-
 <br>
-
 ### **Development Tools** :
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
