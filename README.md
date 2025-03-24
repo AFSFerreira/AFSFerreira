@@ -39,9 +39,17 @@ Nice to meet you!!!
 
 <br/>
 
-<div style="display:flex; width:100%; justify-content:center;">
-  <a href="https://github.com/JamesStewart-314/" title="Allber's profile">
-    <img height="300px" width="100%" href="google.com" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFSFerreira&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+<div style="display:flex; flex-direction:column; width:100%; justify-content:center;">
+  <a href="https://github.com/AFSFerreira" title="Allber's profile">
+    <img height="300px" width="100%" href="google.com" align="center" src="https://github-readme-stats.vercel.app/api?username=AFSFerreira&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
+  </a>
+  
+  <a href="https://github.com/AFSFerreira" title="Allber's profile">
+    <img height="300px" width="100%" href="google.com" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AFSFerreira&theme=highcontrast&hide_border=false"/>
+  </a>
+  
+  <a href="https://github.com/AFSFerreira" title="Allber's profile">
+    <img height="300px" width="100%" href="google.com" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFSFerreira&theme=highcontrast&show_icons=true&hide_border=false&layout=donut"/>
   </a>
 </div>
 <br></br>
