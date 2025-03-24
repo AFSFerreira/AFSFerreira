@@ -40,27 +40,27 @@ Nice to meet you!!!
 <br/>
 
 
-  <a href="https://github.com/AFSFerreira" title="Allber's profile">
-    <img height="300px" width="100%" href="google.com" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AFSFerreira&theme=chartreuse-dark&hide_title=true&area=true&area_color=32CD32&line=32CD32&point=32CD32&bg_color=000000"/>
-  </a>
-  
-  <br></br>
-  
-  <a href="https://github.com/AFSFerreira" title="Allber's profile">
-    <img height="300px" width="100%" href="google.com" align="center" src="https://github-readme-stats.vercel.app/api?username=AFSFerreira&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
-  </a>
+<a href="https://github.com/AFSFerreira" title="Allber's profile">
+  <img height="300px" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AFSFerreira&theme=chartreuse-dark&hide_title=true&area=true&area_color=32CD32&line=32CD32&point=32CD32&bg_color=000000"/>
+</a>
 
-  <br></br>
-  
-  <a href="https://github.com/AFSFerreira" title="Allber's profile">
-    <img height="300px" width="100%" href="google.com" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AFSFerreira&theme=highcontrast&hide_border=false"/>
-  </a>
+<br>
 
-  <br></br>
-  
-  <a href="https://github.com/AFSFerreira" title="Allber's profile">
-    <img height="300px" width="100%" href="google.com" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFSFerreira&theme=highcontrast&show_icons=true&hide_border=false&layout=donut"/>
-  </a>
+<a href="https://github.com/AFSFerreira" title="Allber's profile">
+  <img height="300px" width="100%" src="https://github-readme-stats.vercel.app/api?username=AFSFerreira&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
+</a>
+
+<br>
+
+<a href="https://github.com/AFSFerreira" title="Allber's profile">
+  <img height="300px" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AFSFerreira&theme=highcontrast&hide_border=false"/>
+</a>
+
+<br>
+
+<a href="https://github.com/AFSFerreira" title="Allber's profile">
+  <img height="300px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFSFerreira&theme=highcontrast&show_icons=true&hide_border=false&layout=donut"/>
+</a>
 
 <br></br>
 
