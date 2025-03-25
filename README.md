@@ -50,13 +50,13 @@ Nice to meet you!!!
 <br>
 
 <a href="https://github.com/AFSFerreira" title="Allber's profile">
-  <img height="300px" width="100%" src="https://github-readme-stats.vercel.app/api?username=AFSFerreira&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="300px" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AFSFerreira&theme=highcontrast&hide_border=false"/>
 </a>
 
 <br>
 
 <a href="https://github.com/AFSFerreira" title="Allber's profile">
-  <img height="300px" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AFSFerreira&theme=highcontrast&hide_border=false"/>
+  <img height="300px" width="100%" src="https://github-readme-stats.vercel.app/api?username=AFSFerreira&theme=highcontrast&show_icons=true&hide_border=false&count_private=true"/>
 </a>
 
 <br>
