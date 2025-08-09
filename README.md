@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32&size=35&center=true&vCenter=true&width=1000&lines=Allber+Fellype+Soares+Ferreira;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
+<br>
+<br>
+
  My name is Allber Fellype Soares Ferreira, I'm a undergraduate student in **Computer Science** affiliated with the Universidade Federal Fluminense (UFF).
 
   I am in the fifth semester of my course, dedicating myself to the assimilation of new technologies and programming languages. I intend to direct my professional development towards the field of artificial intelligence, seeking specialization in this area in the future.
@@ -76,6 +79,7 @@
 [![GitHub](https://img.shields.io/github/followers/AFSFerreira?label=follow&style=social)](https://github.com/AFSFerreira)
 
 > 𝐀𝐧𝐝 𝐫𝐞𝐦𝐞𝐦𝐛𝐞𝐫: 𝐈𝐟 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐠𝐨𝐞𝐬 𝐰𝐫𝐨𝐧𝐠, 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐬𝐭𝐢𝐥𝐥 𝐬𝐭𝐚𝐫𝐭 𝐨𝐯𝐞𝐫 𝐟𝐫𝐨𝐦 𝐬𝐜𝐫𝐚𝐭𝐜𝐡. ~ ✏️
+
 
 
 
