@@ -9,8 +9,6 @@
  My name is <strong>Allber Fellype Soares Ferreira</strong>, I'm a undergraduate student in <strong>Computer Science</strong> affiliated with the Universidade Federal Fluminense (UFF). <br><br> I am in the fifth semester of my course, dedicating myself to the assimilation of new technologies and programming languages. I intend to direct my professional development towards the field of artificial intelligence, seeking specialization in this area in the future.
 </p>
 
-<br>
-
 <h2 width="100%" align="center">
  <img width="20px" height="20px" alt="image" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
  &nbsp;<strong>Applications and Data</strong>&nbsp;
@@ -105,6 +103,7 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+
 
 
 
