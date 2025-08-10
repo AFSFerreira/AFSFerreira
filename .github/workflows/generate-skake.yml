@@ -1,0 +1,35 @@
+name: Generate Github Snake Animation
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Run every hour
+  workflow_dispatch: 
+
+jobs:
+  generate_snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Code Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=white
+
+      - name: Commit Files
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add dist/github-snake.svg
+          git diff --cached --quiet || git commit -m "Atualiza animação snake das contribuições"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Send Changes to Remote Repository
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
