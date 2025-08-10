@@ -69,6 +69,7 @@
 </p>
 
 <br>
+<br>
 
 <table width="100%" align="center">
  <tr>
@@ -104,6 +105,7 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+
 
 
 
