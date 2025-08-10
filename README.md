@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -106,6 +107,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=19&color=gradient&text=~%20𝙰𝚗𝚍%20𝚛𝚎𝚖𝚎𝚖𝚋𝚎𝚛:%20𝙸𝚏%20𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐%20𝚐𝚘𝚎𝚜%20𝚠𝚛𝚘𝚗𝚐,%20𝚢𝚘𝚞%20𝚌𝚊𝚗%20𝚜𝚝𝚒𝚕𝚕%20𝚜𝚝𝚊𝚛𝚝%20𝚘𝚟𝚎𝚛%20𝚏𝚛𝚘𝚖%20𝚜𝚌𝚛𝚊𝚝𝚌𝚑%20~&fontSize=17&fontColor=32CD32&animation=twinkling"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+
 
 
 
