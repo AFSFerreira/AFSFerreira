@@ -96,7 +96,7 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/AFSFerreira)
 [![Github Badge](https://img.shields.io/github/followers/AFSFerreira?style=for-the-badge&logo=github&color=white&labelColor=black)](https://github.com/AFSFerreira)
 
-![GitHub Contributions Snake](dist/github-snake.svg)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
@@ -106,6 +106,7 @@
 > 𝐀𝐧𝐝 𝐫𝐞𝐦𝐞𝐦𝐛𝐞𝐫: 𝐈𝐟 𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠 𝐠𝐨𝐞𝐬 𝐰𝐫𝐨𝐧𝐠, 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐬𝐭𝐢𝐥𝐥 𝐬𝐭𝐚𝐫𝐭 𝐨𝐯𝐞𝐫 𝐟𝐫𝐨𝐦 𝐬𝐜𝐫𝐚𝐭𝐜𝐡. ~ ✏️
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+
 
 
 
