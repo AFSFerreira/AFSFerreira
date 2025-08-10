@@ -100,11 +100,11 @@
 
 <img width="100%" src="dist/github-snake-dark.svg"/>
 
-<p width="100%" align="center">
-  <img width="75%" src="https://capsule-render.vercel.app/api?type=transparent&height=19&color=gradient&text=~%20𝙰𝚗𝚍%20𝚛𝚎𝚖𝚎𝚖𝚋𝚎𝚛:%20𝙸𝚏%20𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐%20𝚐𝚘𝚎𝚜%20𝚠𝚛𝚘𝚗𝚐,%20𝚢𝚘𝚞%20𝚌𝚊𝚗%20𝚜𝚝𝚒𝚕𝚕%20𝚜𝚝𝚊𝚛𝚝%20𝚘𝚟𝚎𝚛%20𝚏𝚛𝚘𝚖%20𝚜𝚌𝚛𝚊𝚝𝚌𝚑%20~&fontSize=17&fontColor=32CD32&animation=twinkling"/>
-</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=19&color=gradient&text=~%20𝙰𝚗𝚍%20𝚛𝚎𝚖𝚎𝚖𝚋𝚎𝚛:%20𝙸𝚏%20𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐%20𝚐𝚘𝚎𝚜%20𝚠𝚛𝚘𝚗𝚐,%20𝚢𝚘𝚞%20𝚌𝚊𝚗%20𝚜𝚝𝚒𝚕𝚕%20𝚜𝚝𝚊𝚛𝚝%20𝚘𝚟𝚎𝚛%20𝚏𝚛𝚘𝚖%20𝚜𝚌𝚛𝚊𝚝𝚌𝚑%20~&fontSize=17&fontColor=32CD32&animation=twinkling"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+
 
 
 
