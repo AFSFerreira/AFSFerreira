@@ -24,7 +24,7 @@ jobs:
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add dist/github-snake.svg
+          git add dist/github-snake-dark.svg
           git diff --cached --quiet || git commit -m "Atualiza animação snake das contribuições"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
