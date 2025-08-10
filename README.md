@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
+
 <br>
 
 <h2 width="100%" align="center">
@@ -67,7 +68,7 @@
   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
 </p>
 
-<br/>
+<br>
 
 <table width="100%" align="center">
  <tr>
@@ -103,6 +104,7 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+
 
 
 
