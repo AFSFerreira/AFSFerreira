@@ -96,8 +96,9 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](t.me/AFSFerreira)
 [![Github Badge](https://img.shields.io/github/followers/AFSFerreira?style=for-the-badge&logo=github&color=white&labelColor=black)](https://github.com/AFSFerreira)
 
-![GitHub Contributions Snake Dark](dist/github-snake-dark.svg)
+<img width="100%" src="dist/github-snake-dark.svg"/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=19&color=gradient&text=𝙰𝚗𝚍%20𝚛𝚎𝚖𝚎𝚖𝚋𝚎𝚛:%20𝙸𝚏%20𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐%20𝚐𝚘𝚎𝚜%20𝚠𝚛𝚘𝚗𝚐,%20𝚢𝚘𝚞%20𝚌𝚊𝚗%20𝚜𝚝𝚒𝚕𝚕%20𝚜𝚝𝚊𝚛𝚝%20𝚘𝚟𝚎𝚛%20𝚏𝚛𝚘𝚖%20𝚜𝚌𝚛𝚊𝚝𝚌𝚑%20~&fontSize=19&fontColor=32CD32&animation=twinkling"/>&nbsp;<img width="20px" height="20px" src="https://github.com/user-attachments/assets/f153a6bc-4ef3-4926-a76f-1b448698013e"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+
