@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=header"/>
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Allber+Fellype+Soares+Ferreira;Nice+to+Meet+You!" alt="Typing SVG" />
-<!-- <img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/> -->
-<img width=100% src="https://github-trophies.vercel.app/?username=AFSFerreira&theme=radical&title=AchieveSuperRank,MultiLanguage,LongTimeUser,Commits,Followers,PullRequest"/>
+
+<img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=32CD32&center=true&vCenter=true&width=435&lines=Allber+Fellype+Soares+Ferreira;Nice+to+Meet+You!" alt="Typing SVG" /> 
+<!-- <img width=100% src="https://github-trophies.vercel.app/?username=AFSFerreira&theme=radical&title=AchieveSuperRank,MultiLanguage,LongTimeUser,Commits,Followers,PullRequest"/> -->
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=AFSFerreira&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 <img width=100% src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
@@ -124,6 +125,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=19&color=gradient&text=~%20𝙰𝚗𝚍%20𝚛𝚎𝚖𝚎𝚖𝚋𝚎𝚛:%20𝙸𝚏%20𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐%20𝚐𝚘𝚎𝚜%20𝚠𝚛𝚘𝚗𝚐,%20𝚢𝚘𝚞%20𝚌𝚊𝚗%20𝚜𝚝𝚒𝚕𝚕%20𝚜𝚝𝚊𝚛𝚝%20𝚘𝚟𝚎𝚛%20𝚏𝚛𝚘𝚖%20𝚜𝚌𝚛𝚊𝚝𝚌𝚑%20~&fontSize=17&fontColor=32CD32&animation=twinkling"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+
 
 
 
